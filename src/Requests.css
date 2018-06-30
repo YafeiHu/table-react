@@ -1,0 +1,39 @@
+/**
+ * Copyright Yafei Hu
+ */
+
+.Approved {
+  background-color: #F0FFF0;
+}
+
+.Denied {
+  background-color: #FFE4E1;
+}
+
+#popup{
+  display: none;
+}
+
+.container{
+  border-collapse: collapse;
+  width: 100%;
+  margin-left: 20px
+}
+
+td{
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+header{
+  font-size: 25px;
+  margin-top: 20px;
+  margin-bottom: 20px
+}
+
+#filter{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: #D3D3D3;
+  padding: 50px
+}
